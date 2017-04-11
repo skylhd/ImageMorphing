@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\计算机视觉\hw\ex1\morph\morph\main.cpp(13): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  Morph.vcxproj -> E:\计算机视觉\hw\Ex1\Morph\Debug\Morph.exe
+  Morph.vcxproj -> E:\计算机视觉\hw\Ex1\Morph\Debug\Morph.pdb (Full PDB)

@@ -1,0 +1,55 @@
+﻿  main.cpp
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(32): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(300): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  e:\计算机视觉\hw\ex1\morph\morph\morph.h(295): note: 编译类 模板 成员函数“void Morph<unsigned char>::ShowMorph(int)”时
+  e:\计算机视觉\hw\ex1\morph\morph\main.cpp(14): note: 参见对正在编译的函数 模板 实例化“void Morph<unsigned char>::ShowMorph(int)”的引用
+  e:\计算机视觉\hw\ex1\morph\morph\main.cpp(9): note: 参见对正在编译的类 模板 实例化“Morph<unsigned char>”的引用
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(312): warning C4018: “>=”: 有符号/无符号不匹配
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(183): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  e:\计算机视觉\hw\ex1\morph\morph\morph.h(161): note: 编译类 模板 成员函数“void Morph<unsigned char>::BNAlgorithm(int,int,int)”时
+  e:\计算机视觉\hw\ex1\morph\morph\main.cpp(11): note: 参见对正在编译的函数 模板 实例化“void Morph<unsigned char>::BNAlgorithm(int,int,int)”的引用
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(184): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(185): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(186): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(208): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(209): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(210): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(211): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(103): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  e:\计算机视觉\hw\ex1\morph\morph\morph.h(88): note: 编译类 模板 成员函数“void Morph<unsigned char>::drawPQ(void)”时
+  e:\计算机视觉\hw\ex1\morph\morph\main.cpp(10): note: 参见对正在编译的函数 模板 实例化“void Morph<unsigned char>::drawPQ(void)”的引用
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(122): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\cimg.h(16772): warning C4319: “~”: 将“unsigned int”扩展到更大的“double”时为零
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(15340): note: 编译类 模板 成员函数“unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )”时
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(15219): note: 参见对正在编译的函数 模板 实例化“unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )”的引用
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(24031): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<float>::_cimg_math_parser”的引用
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(24020): note: 编译类 模板 成员函数“double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const”时
+          with
+          [
+              T=float
+          ]
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(24015): note: 参见对正在编译的函数 模板 实例化“double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const”的引用
+          with
+          [
+              T=float
+          ]
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(36168): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<float>”的引用
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(58933): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<wchar_t>”的引用
+e:\计算机视觉\hw\ex1\morph\morph\cimg.h(19903): warning C4319: “~”: 将“unsigned int”扩展到更大的“double”时为零
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(19901): note: 编译类 模板 成员函数“double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)”时
+  e:\计算机视觉\hw\ex1\morph\morph\cimg.h(16771): note: 参见对正在编译的函数 模板 实例化“double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)”的引用
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(331): warning C4018: “<”: 有符号/无符号不匹配
+  e:\计算机视觉\hw\ex1\morph\morph\morph.h(183): note: 参见对正在编译的函数 模板 实例化“float *Morph<unsigned char>::Bilinear<unsigned char>(const cimg_library::CImg<unsigned char> &,float,float)”的引用
+  e:\计算机视觉\hw\ex1\morph\morph\morph.h(183): note: 参见对正在编译的函数 模板 实例化“float *Morph<unsigned char>::Bilinear<unsigned char>(const cimg_library::CImg<unsigned char> &,float,float)”的引用
+  e:\计算机视觉\hw\ex1\morph\morph\morph.h(161): note: 编译类 模板 成员函数“void Morph<unsigned char>::BNAlgorithm(int,int,int)”时
+  e:\计算机视觉\hw\ex1\morph\morph\main.cpp(11): note: 参见对正在编译的函数 模板 实例化“void Morph<unsigned char>::BNAlgorithm(int,int,int)”的引用
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(339): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(340): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(341): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(342): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(347): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(348): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(351): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+e:\计算机视觉\hw\ex1\morph\morph\morph.h(352): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+  Morph.vcxproj -> E:\计算机视觉\hw\Ex1\Morph\x64\Debug\Morph.exe
+  Morph.vcxproj -> E:\计算机视觉\hw\Ex1\Morph\x64\Debug\Morph.pdb (Full PDB)
